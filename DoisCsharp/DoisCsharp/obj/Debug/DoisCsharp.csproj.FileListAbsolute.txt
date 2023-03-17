@@ -1,0 +1,8 @@
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\bin\Debug\DoisCsharp.exe.config
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\bin\Debug\DoisCsharp.exe
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\bin\Debug\DoisCsharp.pdb
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\obj\Debug\DoisCsharp.csproj.AssemblyReference.cache
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\obj\Debug\DoisCsharp.csproj.SuggestedBindingRedirects.cache
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\obj\Debug\DoisCsharp.csproj.CoreCompileInputs.cache
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\obj\Debug\DoisCsharp.exe
+C:\01-Treinamentos\DoisCsharp\DoisCsharp\obj\Debug\DoisCsharp.pdb
