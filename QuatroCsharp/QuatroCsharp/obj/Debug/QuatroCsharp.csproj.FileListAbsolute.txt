@@ -1,0 +1,8 @@
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\bin\Debug\QuatroCsharp.exe.config
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\bin\Debug\QuatroCsharp.exe
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\bin\Debug\QuatroCsharp.pdb
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\obj\Debug\QuatroCsharp.csproj.AssemblyReference.cache
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\obj\Debug\QuatroCsharp.csproj.SuggestedBindingRedirects.cache
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\obj\Debug\QuatroCsharp.csproj.CoreCompileInputs.cache
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\obj\Debug\QuatroCsharp.exe
+C:\01-Treinamentos\QuatroCsharp\QuatroCsharp\obj\Debug\QuatroCsharp.pdb
