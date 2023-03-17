@@ -1,0 +1,8 @@
+C:\01-Treinamentos\UmCsharp\UmCsharp\bin\Debug\UmCsharp.exe.config
+C:\01-Treinamentos\UmCsharp\UmCsharp\bin\Debug\UmCsharp.exe
+C:\01-Treinamentos\UmCsharp\UmCsharp\bin\Debug\UmCsharp.pdb
+C:\01-Treinamentos\UmCsharp\UmCsharp\obj\Debug\UmCsharp.csproj.AssemblyReference.cache
+C:\01-Treinamentos\UmCsharp\UmCsharp\obj\Debug\UmCsharp.csproj.SuggestedBindingRedirects.cache
+C:\01-Treinamentos\UmCsharp\UmCsharp\obj\Debug\UmCsharp.csproj.CoreCompileInputs.cache
+C:\01-Treinamentos\UmCsharp\UmCsharp\obj\Debug\UmCsharp.exe
+C:\01-Treinamentos\UmCsharp\UmCsharp\obj\Debug\UmCsharp.pdb
