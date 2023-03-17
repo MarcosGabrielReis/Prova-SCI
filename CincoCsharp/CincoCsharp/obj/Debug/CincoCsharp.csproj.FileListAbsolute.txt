@@ -1,0 +1,8 @@
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\bin\Debug\CincoCsharp.exe.config
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\bin\Debug\CincoCsharp.exe
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\bin\Debug\CincoCsharp.pdb
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\obj\Debug\CincoCsharp.csproj.AssemblyReference.cache
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\obj\Debug\CincoCsharp.csproj.SuggestedBindingRedirects.cache
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\obj\Debug\CincoCsharp.csproj.CoreCompileInputs.cache
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\obj\Debug\CincoCsharp.exe
+C:\01-Treinamentos\CincoCsharp\CincoCsharp\obj\Debug\CincoCsharp.pdb
