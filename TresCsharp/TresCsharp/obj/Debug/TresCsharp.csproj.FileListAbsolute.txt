@@ -1,0 +1,8 @@
+C:\01-Treinamentos\TresCsharp\TresCsharp\bin\Debug\TresCsharp.exe.config
+C:\01-Treinamentos\TresCsharp\TresCsharp\bin\Debug\TresCsharp.exe
+C:\01-Treinamentos\TresCsharp\TresCsharp\bin\Debug\TresCsharp.pdb
+C:\01-Treinamentos\TresCsharp\TresCsharp\obj\Debug\TresCsharp.csproj.AssemblyReference.cache
+C:\01-Treinamentos\TresCsharp\TresCsharp\obj\Debug\TresCsharp.csproj.SuggestedBindingRedirects.cache
+C:\01-Treinamentos\TresCsharp\TresCsharp\obj\Debug\TresCsharp.csproj.CoreCompileInputs.cache
+C:\01-Treinamentos\TresCsharp\TresCsharp\obj\Debug\TresCsharp.exe
+C:\01-Treinamentos\TresCsharp\TresCsharp\obj\Debug\TresCsharp.pdb
